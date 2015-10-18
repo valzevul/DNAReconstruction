@@ -1,0 +1,111 @@
+LOCUS       LE300393                 800 bp    mRNA    linear   TSA 13-MAY-2015
+DEFINITION  TSA: Hynobius retardatus mRNA, contig: comp2964981_c0_seq1, mRNA
+            sequence.
+ACCESSION   LE300393
+VERSION     LE300393.1  GI:820537901
+DBLINK      BioProject: PRJDB2409
+            BioSample: SAMD00010994, SAMD00010995, SAMD00010996, SAMD00010997,
+            SAMD00010998, SAMD00010999, SAMD00011000, SAMD00011001,
+            SAMD00011002, SAMD00011003, SAMD00011004, SAMD00011005,
+            SAMD00011006, SAMD00011007, SAMD00011008, SAMD00011009,
+            SAMD00011010, SAMD00011011, SAMD00011012, SAMD00011013,
+            SAMD00011014, SAMD00011015, SAMD00011016, SAMD00011017,
+            SAMD00011018, SAMD00011019, SAMD00011020, SAMD00011021,
+            SAMD00011022, SAMD00011023, SAMD00011024, SAMD00011025,
+            SAMD00011026, SAMD00011027, SAMD00011028, SAMD00011029,
+            SAMD00011030, SAMD00011031, SAMD00011032, SAMD00011033,
+            SAMD00011034, SAMD00011035, SAMD00011036, SAMD00011037,
+            SAMD00011038, SAMD00011039, SAMD00011040, SAMD00011041,
+            SAMD00011042, SAMD00011043, SAMD00011044, SAMD00011045,
+            SAMD00011046, SAMD00011047, SAMD00011048, SAMD00011049,
+            SAMD00011050, SAMD00011051, SAMD00011052, SAMD00011053,
+            SAMD00011054, SAMD00011055, SAMD00011056, SAMD00011057,
+            SAMD00011058, SAMD00011059, SAMD00011060, SAMD00011061,
+            SAMD00011062, SAMD00011063, SAMD00011064, SAMD00011065
+            Sequence Read Archive: DRR016729, DRR016730, DRR016731, DRR016732,
+            DRR016733, DRR016734, DRR016735, DRR016736, DRR016737, DRR016738,
+            DRR016739, DRR016740, DRR016741, DRR016742, DRR016743, DRR016744,
+            DRR016745, DRR016746, DRR016747, DRR016748, DRR016749, DRR016750,
+            DRR016751, DRR016752, DRR016753, DRR016754, DRR016755, DRR016756,
+            DRR016757, DRR016758, DRR016759, DRR016760, DRR016761, DRR016762,
+            DRR016763, DRR016764, DRR016765, DRR016766, DRR016767, DRR016768,
+            DRR016769, DRR016770, DRR016771, DRR016772, DRR016773, DRR016774,
+            DRR016775, DRR016776, DRR016777, DRR016778, DRR016779, DRR016780,
+            DRR016781, DRR016782, DRR016783, DRR016784, DRR016785, DRR016786,
+            DRR016787, DRR016788, DRR016789, DRR016790, DRR016791, DRR016792,
+            DRR016793, DRR016794, DRR016795, DRR016796, DRR016797, DRR016798,
+            DRR016799, DRR016800
+KEYWORDS    TSA; Transcriptome Shotgun Assembly.
+SOURCE      Hynobius retardatus (Hokkaido salamander)
+  ORGANISM  Hynobius retardatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Cryptobranchoidea; Hynobiidae;
+            Hynobius; Satobius.
+REFERENCE   1
+  AUTHORS   Matsunami,M., Kitano,J., Kishida,O., Michimae,H., Miura,T. and
+            Nishimura,K.
+  TITLE     Transcriptome analysis of predator- and prey-induced phenotypic
+            plasticity in the Hokkaido salamander (Hynobius retardatus)
+  JOURNAL   Mol. Ecol. (2015) In press
+   PUBMED   25943778
+  REMARK    DOI:10.1111/mec.13228
+            Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 800)
+  AUTHORS   Matsunami,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-APR-2015) Contact:Masatoshi Matsunami Hokkaido
+            University, Graduate School of Environmental Science; N10W5,
+            Kita-ku, Sapporo, Hokkaido 060-0810, Japan
+COMMENT     We carried out two different experiments, a tadpole experiment and
+            a dragonfly experiment, each consisting of a treatment group and a
+            control group. In the tadpole experiment, 7-day-old salamander
+            hatchlings were individually assigned to plastic enclosures
+            containing 10 small tadpoles as inducers (i.e., tadpole-exposure
+            treatments) or to enclosures without tadpoles (i.e., tadpole
+            controls).
+            In the dragonfly experiment, the sides of plastic enclosures were
+            perforated with small holes and the 10 enclosures were put into
+            tanks containing 2 L of aged tap water. Thus, all enclosures in the
+            same tank shared the same water. We assigned a 7-day-old salamander
+            larva to each of nine enclosures in every tank. In the
+            dragonfly-exposure treatment, a dragonfly nymph was placed in the
+            remaining enclosure. In the dragonfly control treatment, the tenth
+            enclosure was left empty.
+            We collected tissue samples for the transcriptome analysis at three
+            census time points (0 h, 12 h, and 7 days). We dissected the
+            salamander larvae from each experiment and sampled tissues from the
+            brain and from those body parts that were changed drastically in
+            the experiment (tadpole experiment, head excluding the brain;
+            dragonfly experiment, gills and tail). We pooled the sampled
+            tissues from 2-5 individuals.
+            
+            ##Assembly-Data-START##
+            Assembly Method       :: Trinity v. 2013-2-25
+            Sequencing Technology :: Hiseq2000
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..800
+                     /organism="Hynobius retardatus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:36312"
+                     /tissue_type="mixture of brain, gill, head, tail"
+                     /dev_stage="larvae"
+                     /country="Japan"
+                     /note="contig: comp2964981_c0_seq1"
+ORIGIN      
+        1 caagggtggt gagggagagc gcgggtgggg cagaggtagg catgcattcc tgattcaatc
+       61 cccattccat actatgcata atttggaatt ggggaataca ggaccttgtt gtgggggagg
+      121 gggaaggcgt ccacggatgt tgagtaggag gagaggagtg tttgctggtg ggggattttt
+      181 gagagaaatc tgcggcaatt cagtaaaaag cgggagtctc ctgtcaaaac cgggagggtt
+      241 ggatgatctg tctcattccc ctgtttgcgc tccatgccca ttcaaacctt ggcctctctc
+      301 tggtatgatt acttctaggg gatcaaagag gagttgaggc tccatgccca atacatcttt
+      361 ggcctctctc gctgtagggt tcctcttgag ccggtgagaa agggagttta ctccccatgt
+      421 ccattcaata tgcatcctcc ctgctgatac cacccacatg gatgccaatt ctaatcatgt
+      481 tttgtggtca tgcggacacc agccctttgg gaggtcaact aaggccacca actcgtttca
+      541 cagtagggaa tagaagcatt tctcagttcc tgacaattgg cactttgatt tggtgccagg
+      601 tagaaccctt cactctgcca accacaaccc caagctggct caagttctgg ggcttgacct
+      661 agcagtcatt gcgagagaag gcttcttacg gctgtccctg gcagcaccgg agccttttga
+      721 gggaggaggg tgctggaacc atcccgactc catttaacac atttcccctt ctgtttagaa
+      781 cccactgcag gaatggggtg
+//
+

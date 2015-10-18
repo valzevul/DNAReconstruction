@@ -1,0 +1,69 @@
+LOCUS       XM_003770627             400 bp    mRNA    linear   MAM 15-MAY-2015
+DEFINITION  PREDICTED: Sarcophilus harrisii guanine nucleotide binding protein
+            (G protein), gamma 12 (GNG12), mRNA.
+ACCESSION   XM_003770627
+VERSION     XM_003770627.2  GI:821486190
+DBLINK      BioProject: PRJNA167725
+KEYWORDS    RefSeq.
+SOURCE      Sarcophilus harrisii (Tasmanian devil)
+  ORGANISM  Sarcophilus harrisii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Metatheria; Dasyuromorphia; Dasyuridae; Sarcophilus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_003839641.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On May 15, 2015 this sequence version replaced gi:395537367.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Sarcophilus harrisii Annotation
+                                           Release 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..400
+                     /organism="Sarcophilus harrisii"
+                     /mol_type="mRNA"
+                     /isolate="Salem"
+                     /db_xref="taxon:9305"
+                     /chromosome="4"
+                     /map="unlocalized"
+                     /sex="female"
+                     /country="Australia: Taronga Zoo, Sydney"
+     gene            1..400
+                     /gene="GNG12"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 23 Proteins, and 100% coverage of
+                     the annotated genomic feature by RNAseq alignments,
+                     including 3 samples with support for all annotated
+                     introns"
+                     /db_xref="GeneID:100914479"
+     CDS             20..238
+                     /gene="GNG12"
+                     /codon_start=1
+                     /product="guanine nucleotide-binding protein
+                     G(I)/G(S)/G(O) subunit gamma-12"
+                     /protein_id="XP_003770675.1"
+                     /db_xref="GI:395537368"
+                     /db_xref="GeneID:100914479"
+                     /translation="MSSKTTNTNSVAQARRTVQQLRLEASIERIKVSKASADLMSYCE
+                     EHARGDPLLMGIPTSENPFKDKKTCIIL"
+ORIGIN      
+        1 gtccagaacc tccccgaaga tgtccagcaa gaccaccaac accaacagcg tggcccaggc
+       61 ccggcgaacc gtgcagcagc tgaggttgga ggcgtccata gagaggatca aggtgtccaa
+      121 ggcgtctgcg gacctcatgt cctactgcga ggagcatgcc cggggggatc ctttgctcat
+      181 gggaatcccg acttcagaaa accccttcaa ggataaaaaa acgtgcatca tcttataggg
+      241 cgttggggag cccccggtgc cgcccccatg atctaagcag ctccatgaag aaacgtacct
+      301 tccgctcact tggtaaccac tgctaaaaac gaaaatgctt ttaacttgta aaaacaaaca
+      361 aacaaacaaa aaatgagttt taaagccttt gtttttaaaa
+//
+

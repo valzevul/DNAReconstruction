@@ -1,0 +1,59 @@
+LOCUS       LD173115               16000 bp    DNA     linear   CON 28-APR-2015
+DEFINITION  Humulus lupulus var. lupulus DNA, contig:
+            SW_scaffold40251_size15995, whole genome shotgun sequence.
+ACCESSION   LD173115 BBPC01000000
+VERSION     LD173115.1  GI:735954766
+DBLINK      BioProject: PRJDB3233
+            BioSample: SAMD00021060
+            Sequence Read Archive: DRR024392, DRR024393, DRR024394, DRR024395,
+            DRR024396, DRR024397, DRR024398, DRR024399, DRR024400, DRR024401,
+            DRR024402, DRR024403, DRR024404, DRR024405, DRR024406, DRR024407,
+            DRR024408, DRR024409, DRR024410, DRR024411, DRR024412, DRR024413,
+            DRR024414, DRR024415, DRR024416, DRR024417, DRR024418, DRR024419,
+            DRR024420, DRR024421, DRR024422, DRR024423, DRR024424, DRR024425,
+            DRR024426, DRR024427, DRR024428, DRR024429, DRR024430, DRR024431,
+            DRR024432, DRR024433, DRR024434, DRR024435, DRR024436, DRR024437,
+            DRR024438, DRR024439, DRR024440, DRR024441, DRR024442, DRR024443,
+            DRR024444, DRR024445, DRR024446, DRR024447
+KEYWORDS    WGS; STANDARD_DRAFT.
+SOURCE      Humulus lupulus var. lupulus
+  ORGANISM  Humulus lupulus var. lupulus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Rosales; Cannabaceae; Humulus.
+REFERENCE   1
+  AUTHORS   Natsume,S., Takagi,H., Shiraishi,A., Murata,J., Toyonaga,H.,
+            Patzak,J., Takagi,M., Yaegashi,H., Uemura,A., Mitsuoka,C.,
+            Yoshida,K., Krofta,K., Satake,H., Terauchi,R. and Ono,E.
+  TITLE     The Draft Genome of Hop (Humulus lupulus), an Essence for Brewing
+  JOURNAL   Plant Cell Physiol. 56 (3), 428-441 (2015)
+   PUBMED   25416290
+  REMARK    DOI:10.1093/pcp/pcu169
+REFERENCE   2  (bases 1 to 16000)
+  AUTHORS   Ono,E., Natsume,S. and Takagi,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-NOV-2014) Contact:Eiichiro Ono Research Institute,
+            Suntory Global Innovation Center (SIC) Ltd.; 1-1-1 Wakayamadai,
+            Shimamoto, Mishima, Osaka 618-8503, Japan
+COMMENT     ##Genome-Assembly-Data-START##
+            Assembly Method       :: CLC Assembly Cell v. 3.22, SSPACE Premium
+                                     v. 2.3, Gap Closure v. 1.12
+            Assembly Name         :: hl_SW_version_1.0.fasta
+            Genome Coverage       :: 160x
+            Sequencing Technology :: Illumina GA IIx and HiSeq 2000
+            ##Genome-Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..16000
+                     /organism="Humulus lupulus var. lupulus"
+                     /mol_type="genomic DNA"
+                     /variety="lupulus"
+                     /cultivar="Shinshu Wase"
+                     /db_xref="taxon:1571165"
+                     /note="contig: SW_scaffold40251_size15995"
+     assembly_gap    9265..13971
+                     /estimated_length=4707
+                     /gap_type="within scaffold"
+                     /linkage_evidence="paired-ends"
+CONTIG      join(BBPC01167944.1:1..9264,gap(4707),BBPC01167945.1:1..2029)
+//
+

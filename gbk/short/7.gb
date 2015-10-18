@@ -1,0 +1,73 @@
+LOCUS       XM_003767080             400 bp    mRNA    linear   MAM 15-MAY-2015
+DEFINITION  PREDICTED: Sarcophilus harrisii nucleolar complex associated 2
+            homolog (S. cerevisiae) (NOC2L), partial mRNA.
+ACCESSION   XM_003767080
+VERSION     XM_003767080.2  GI:821479206
+DBLINK      BioProject: PRJNA167725
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Sarcophilus harrisii (Tasmanian devil)
+  ORGANISM  Sarcophilus harrisii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Metatheria; Dasyuromorphia; Dasyuridae; Sarcophilus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_003838645.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On May 15, 2015 this sequence version replaced gi:395530082.
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 9% of CDS bases
+            ##RefSeq-Attributes-END##
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Sarcophilus harrisii Annotation
+                                           Release 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: incomplete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..400
+                     /organism="Sarcophilus harrisii"
+                     /mol_type="mRNA"
+                     /isolate="Salem"
+                     /db_xref="taxon:9305"
+                     /chromosome="3"
+                     /map="unlocalized"
+                     /sex="female"
+                     /country="Australia: Taronga Zoo, Sydney"
+     gene            1..>400
+                     /gene="NOC2L"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 91% coverage of the annotated
+                     genomic feature by RNAseq alignments, including 2 samples
+                     with support for all annotated introns"
+                     /db_xref="GeneID:100928037"
+     CDS             38..>400
+                     /gene="NOC2L"
+                     /codon_start=1
+                     /product="nucleolar complex protein 2 homolog"
+                     /protein_id="XP_003767128.1"
+                     /db_xref="GI:395530083"
+                     /db_xref="GeneID:100928037"
+                     /translation="MYISYVRNSKFTSPNVLPMINFMQRSLTEMYALDLALSYQHAFL
+                     YIRQLAIHLRNAMTMNKKETHQSVYNWQYVHCLYLWCRVLSTIHPSEVLQPLIYPLTQ
+                     VIIGCIKYGAGRRRGGGRG"
+ORIGIN      
+        1 caagaaggac cccttcctga gccctgttct caagcaaatg tacatctcct acgtgaggaa
+       61 ctccaagttc acctcgccca acgtgctccc catgatcaac ttcatgcagc gctcgctgac
+      121 ggagatgtac gcgctggacc tcgccctctc ctaccagcac gccttcctct acatccgcca
+      181 gctcgccatc catctgcgca acgccatgac catgaacaag aaggagaccc accagtctgt
+      241 gtacaactgg cagtatgtgc actgcctcta cctgtggtgc cgcgtcctga gcaccatcca
+      301 ccctagcgag gtcttgcagc cgctcatcta cccactgacc caggtcatca tcggctgcat
+      361 caagtacggc gccgggcgga ggcggggagg ggggcggggg
+//
+

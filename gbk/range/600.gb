@@ -1,0 +1,65 @@
+LOCUS       KP822267                 600 bp    DNA     linear   PLN 16-MAY-2015
+DEFINITION  UNVERIFIED: Protoparmelia cupreobadia voucher Fryday 8631 18S
+            ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal
+            RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA
+            gene, region.
+ACCESSION   KP822267
+VERSION     KP822267.1  GI:820833076
+KEYWORDS    UNVERIFIED.
+SOURCE      Protoparmelia cupreobadia
+  ORGANISM  Protoparmelia cupreobadia
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; OSLEUM clade; Lecanoromycetidae; Lecanorales;
+            Lecanorineae; Parmeliaceae; Protoparmelia.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Singh,G., Dal Grande,F., Divakar,P.K., Otte,J., Leavitt,S.D.,
+            Szczepanska,K., Crespo,A., Rico,V.J., Aptroot,A., Caceres,M.E.,
+            Lumbsch,H.T. and Schmitt,I.
+  TITLE     Coalescent-based species delimitation approach uncovers high
+            cryptic diversity in the cosmopolitan lichen-forming fungal genus
+            Protoparmelia (Lecanorales, Ascomycota)
+  JOURNAL   PLoS ONE 10 (5), E0124625 (2015)
+   PUBMED   25932996
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Singh,G., Dal Grande,F., Divakar,P.K., Otte,J., Leavitt,S.D.,
+            Szczepanska,K., Crespo,A., Rico,V.J., Aptroot,A., Caceres,M.E.S.,
+            Lumbsch,H.T. and Schmitt,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-FEB-2015) Senckenberg Gesellschaft fur
+            Naturforschung; Biodiversity and Climate Research Centre, Goethe
+            University Frankfurt, Senckenberganlage 25, Frankfurt am Main,
+            Hessen 60325, Germany
+COMMENT     GenBank staff is unable to verify sequence and/or annotation
+            provided by the submitter.
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Protoparmelia cupreobadia"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Fryday 8631"
+                     /db_xref="taxon:1395511"
+                     /country="USA: Maine"
+                     /altitude="990 m."
+                     /collection_date="07-Sep-2003"
+                     /collected_by="Alan M. Fryday, 8631"
+     misc_RNA        <1..>600
+                     /note="may contain 18S ribosomal RNA, internal transcribed
+                     spacer 1, 5.8S ribosomal RNA, internal transcribed spacer
+                     2, and 28S ribosomal RNA"
+ORIGIN      
+        1 ccgtaggtga acctgcggaa ggatcattat cgagagaggg ggcttcgcgc tcccgggggg
+       61 tttcggccct caattcttca ccccatgtct accttccttc gtttctttgg cgagccacga
+      121 ggcttctgtc tcgcgtcgaa tctggggctt cgtggcttca gttggggggt gcgctcgcca
+      181 gaggcccgtt aaattctgta ttattagtga tgtccgagta gaaacaacaa aagttaaaac
+      241 tttcaacaac ggatctcttg gttctggcat cgatgaagaa cgcagcgaaa tgcgataagt
+      301 aatgtgaatt gcagaattca gtgaatcatc gaatctttga acgcacattg cgccccccgg
+      361 tattccggga ggcatgcctg ttcgagcgtc attgcacctc tcaagcgtag cttggtattg
+      421 ggttttcgtc cctcgggcgt gcccgaaaag ccgtggtggt ccggggtgga ttcaagcgta
+      481 gtaattttca tcaaccgctt aggatgaagc ctcgcggcca gccaacaacc gcccaacttt
+      541 caaagacatt gacctcggat caggtaggga tacccgctga acttaagcat atcaataagc
+//
+

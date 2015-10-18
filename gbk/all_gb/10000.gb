@@ -1,0 +1,65 @@
+LOCUS       NW_004467478           10000 bp    DNA     linear   CON 13-MAY-2015
+DEFINITION  Dasypus novemcinctus isolate 3-136 unplaced genomic scaffold,
+            Dasnov3.0 Scaffold9741, whole genome shotgun sequence.
+ACCESSION   NW_004467478 GPS_001494574
+VERSION     NW_004467478.1  GI:477090058
+DBLINK      BioProject: PRJNA196486
+            BioSample: SAMN02953623
+            Assembly: GCF_000208655.1
+KEYWORDS    WGS; RefSeq.
+SOURCE      Dasypus novemcinctus (nine-banded armadillo)
+  ORGANISM  Dasypus novemcinctus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Xenarthra; Cingulata; Dasypodidae; Dasypus.
+COMMENT     REFSEQ INFORMATION: The reference sequence is identical to
+            JH564206.1.
+            Assembly name: Dasnov3.0
+            The genomic sequence for this RefSeq record is from the
+            whole-genome assembly released by the Baylor College of Medicine on
+            2012/01/06 (see
+            http://www.hgsc.bcm.tmc.edu/content/armadillo-genome-project). The
+            original whole-genome shotgun project has the accession
+            AAGV00000000.3.
+            
+            ##Genome-Assembly-Data-START##
+            Assembly Provider     :: Baylor College of Medicine
+            Assembly Method       :: Celera Assembler v. 6.0; Atlas-Link;
+                                     Atlas-Gap-Fill
+            Assembly Name         :: Dasnov3.0
+            Genome Coverage       :: 6x
+            Sequencing Technology :: Sanger
+            ##Genome-Assembly-Data-END##
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Dasypus novemcinctus Annotation
+                                           Release 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..10000
+                     /organism="Dasypus novemcinctus"
+                     /mol_type="genomic DNA"
+                     /isolate="3-136"
+                     /db_xref="taxon:9361"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /country="USA: National Hansen's Disease Programs at
+                     Louisiana State University, School of Veterinary Medicine"
+     assembly_gap    1635..4554
+                     /estimated_length=2920
+                     /gap_type="within scaffold"
+                     /linkage_evidence="unspecified"
+     assembly_gap    5849..8946
+                     /estimated_length=3098
+                     /gap_type="within scaffold"
+                     /linkage_evidence="unspecified"
+CONTIG      join(AAGV03041999.1:1..1634,gap(2920),AAGV03042000.1:1..1294,
+            gap(3098),AAGV03042001.1:1..1054)
+//
+

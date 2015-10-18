@@ -1,0 +1,56 @@
+LOCUS       KP297393                1400 bp    DNA     linear   BCT 16-MAY-2015
+DEFINITION  Acinetobacter soli strain KSM2 16S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   KP297393
+VERSION     KP297393.1  GI:820716088
+KEYWORDS    .
+SOURCE      Acinetobacter soli
+  ORGANISM  Acinetobacter soli
+            Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales;
+            Moraxellaceae; Acinetobacter.
+REFERENCE   1  (bases 1 to 1400)
+  AUTHORS   Jain,D., Bachani,P., Bhattacharya,S. and Mishra,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-DEC-2014) CSIR-Central Salt and Marine Chemicals
+            Research Institute (CSMCRI), Lab No. 201, Marine Microbiology Lab,
+            Bhavnagar 364002, India
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1400
+                     /organism="Acinetobacter soli"
+                     /mol_type="genomic DNA"
+                     /strain="KSM2"
+                     /isolation_source="salt panes"
+                     /db_xref="taxon:487316"
+                     /lat_lon="27.6192 N 75.0433 E"
+     rRNA            <1..>1400
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 atgcagtcga gcggggtgat ggtgcttgca ctatcactta gcggcggacg ggtgagtaat
+       61 gcttaggaat ctgcctatta gtgggggaca acatctcgaa agggatgcta ataccgcata
+      121 cgtcctacgg gagaaagcag gggatcactt gtgaccttgc gctaatagat gagcctaagt
+      181 cggattagct agttggtggg gtaaaggcct accaaggcga cgatctgtag cgggtctgag
+      241 aggatgatcc gccacactgg gactgagaca cggcccagac tcctacggga ggcagcagtg
+      301 gggaatattg gacaatgggg ggaaccctga tccagccatg ccgcgtgtgt gaagaaggcc
+      361 ttatggttgt aaagcacttt aagcgaggag gaggctcttt tggttaatac ccaagatgag
+      421 tggacgttac tcgcagaata agcaccggct aactctgtgc cagcagccgc ggtaatacag
+      481 agggtgcaag cgttaatcgg atttactggg cgtaaagcgc gcgtaggcgg ccaattaagt
+      541 caaatgtgaa atccccgagc ttaacttggg aattgcattc gatactggtt ggctagagtg
+      601 tgggagagga tggtagaatt ccaggtgtag cggtgaaatg cgtagagatc tggaggaata
+      661 ccgatggcga aggcagccat ctggcctaac actgacgctg aggtgcgaaa gcatggggag
+      721 caaacaggat tagataccct ggtagtccat gccgtaaacg atgtctacta gccgttgggg
+      781 cctttgaggc tttagtggcg cagctaacgc gataagtaga ccgcctgggg agtacggtcg
+      841 caagactaaa actcaaatga attgacgggg gcccgcacaa gcggtggagc atgtggttta
+      901 attcgatgca acgcgaagaa ccttacctgg ccttgacata gtagaaactt tccagagatg
+      961 gattggtgcc ttcgggaatc tacatacagg tgctgcatgg ctgtcgtcag ctcgtgtcgt
+     1021 gagatgttgg gttaagtccc gcaacgagcg caaccctttt ccttacttgc cagcatttcg
+     1081 gatgggaact ttaaggatac tgccagtgac aaactggagg aaggcgggga cgacgtcaag
+     1141 tcatcatggc ccttacggcc agggctacac acgtgctaca atggtcggta caaagggttg
+     1201 ctacctagcg ataggatgct aatctcaaaa agccgatcgt agtccggatt ggagtctgca
+     1261 actcgactcc atgaagtcgg aatcgctagt aatcgcggat cagaatgccg cggtgaatac
+     1321 gttcccgggc cttgtacaca ccgcccgtca caccatggga gtttgttgca ccagaagtag
+     1381 ctagcctaac tgcaaagagg
+//
+

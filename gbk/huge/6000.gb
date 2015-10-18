@@ -1,0 +1,150 @@
+LOCUS       NZ_JTCT02000017         6000 bp    DNA     linear   CON 15-MAY-2015
+DEFINITION  Xanthomonas axonopodis pv. phaseoli strain NCPPB 1646
+            scf_20372_32.contig_1, whole genome shotgun sequence.
+ACCESSION   NZ_JTCT02000017 NZ_JTCT00000000
+VERSION     NZ_JTCT02000017.1  GI:821407608
+DBLINK      BioProject: PRJNA224116
+            BioSample: SAMN03175008
+            Assembly: GCF_000785925.1
+KEYWORDS    WGS; RefSeq.
+SOURCE      Xanthomonas axonopodis pv. phaseoli
+  ORGANISM  Xanthomonas axonopodis pv. phaseoli
+            Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales;
+            Xanthomonadaceae; Xanthomonas.
+REFERENCE   1  (bases 1 to 6000)
+  AUTHORS   Harrison,j., Aritua,V., Sapp,M., Smith,J. and Studholme,D.J.
+  TITLE     Genome sequencing of pathogens of bean
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 6000)
+  AUTHORS   Harrison,j., Aritua,V., Sapp,M., Smith,J. and Studholme,D.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-APR-2015) Biosciences, University of Exeter, 10
+            Harrowby Close, Tiverton, Devon EX16 4BQ, United Kingdom
+REFERENCE   3  (bases 1 to 6000)
+  AUTHORS   Aritua,V., Studholme,D. and Smith,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-NOV-2014) Biosciences, University of Exeter, Geoffrey
+            Pope Building, Stocker Road, Exeter, Devon EX4 4QD, United Kingdom
+            (Great Britain)
+COMMENT     Annotation was added by the NCBI Prokaryotic Genome Annotation
+            Pipeline (released 2013). Information about the Pipeline can be
+            found here: http://www.ncbi.nlm.nih.gov/genome/annotation_prok/
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider          :: NCBI
+            Annotation Date              :: 05/14/2015 09:53:02
+            Annotation Pipeline          :: NCBI Prokaryotic Genome Annotation
+                                            Pipeline
+            Annotation Method            :: Best-placed reference protein set;
+                                            GeneMarkS+
+            Annotation Software revision :: 2.10
+            Features Annotated           :: Gene; CDS; rRNA; tRNA; ncRNA;
+                                            repeat_region
+            Genes                        :: 4,486
+            CDS                          :: 4,271
+            Pseudo Genes                 :: 130
+            rRNAs                        :: 3 ( 5S, 16S, 23S )
+            tRNAs                        :: 52
+            ncRNA                        :: 30
+            Frameshifted Genes           :: 105
+            ##Genome-Annotation-Data-END##
+            
+            ##Genome-Assembly-Data-START##
+            Assembly Method        :: SPAdes v. 3.5.0
+            Assembly Name          :: NCPPB1646v2
+            Genome Representation  :: Full
+            Expected Final Version :: Yes
+            Genome Coverage        :: 48.0x
+            Sequencing Technology  :: Illumina MiSeq
+            ##Genome-Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..6000
+                     /organism="Xanthomonas axonopodis pv. phaseoli"
+                     /mol_type="genomic DNA"
+                     /strain="NCPPB 1646"
+                     /host="Phaseolus vulgaris"
+                     /db_xref="taxon:317013"
+                     /country="Australia"
+                     /collection_date="1964"
+                     /pathovar="phaseoli"
+     gene            complement(<1..102)
+                     /locus_tag="PK63_RS01190"
+                     /old_locus_tag="PK63_22030"
+     CDS             complement(<1..102)
+                     /locus_tag="PK63_RS01190"
+                     /old_locus_tag="PK63_22030"
+                     /inference="EXISTENCE: similar to AA
+                     sequence:RefSeq:WP_011037837.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="transposase"
+                     /protein_id="WP_046830499.1"
+                     /db_xref="GI:821372570"
+                     /translation="MVDSEMSMSSKRYTDEFKIEAVRQVTDRGFKVAD"
+     gene            2411..3085
+                     /locus_tag="PK63_RS01195"
+                     /old_locus_tag="PK63_20985"
+     CDS             2411..3085
+                     /locus_tag="PK63_RS01195"
+                     /old_locus_tag="PK63_20985"
+                     /inference="EXISTENCE: similar to AA
+                     sequence:RefSeq:WP_017163690.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="resolvase"
+                     /protein_id="WP_017163690.1"
+                     /db_xref="GI:515731090"
+                     /translation="MARSPAEPFKVARIYQRVSTDGQDLTRQAAIVQEAKAAGFYVAG
+                     VYREKASGARADRPELLRMIEDLQSGEVVIAEKIDRISRLPLVEAERLVASIRAKGAR
+                     LAVPGVVDFSEVAAEAKGVAKVVLESMQDMLLRIALQIARDDYEDRRERQRQGIELAK
+                     ARDKYRGRPPDQAVHARIVALRSRGETIANTAHLAGASVTTVKRVWAAHCAQGHENGR
+                     LGRVIK"
+     gene            3484..4353
+                     /locus_tag="PK63_RS01200"
+                     /old_locus_tag="PK63_20980"
+     CDS             3484..4353
+                     /locus_tag="PK63_RS01200"
+                     /old_locus_tag="PK63_20980"
+                     /inference="EXISTENCE: similar to AA
+                     sequence:RefSeq:WP_017172484.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="DNA adenine methylase"
+                     /protein_id="WP_017172484.1"
+                     /db_xref="GI:515739884"
+                     /translation="MERILRPEPLILRGSTLFEGDALTVLRRLPSGSVRCVVTSPPYW
+                     GLRDYGIEEQIGLEVTMPQFLHRLVAIFAEVKRVLTDDGTLWLNIGDGYTSGNRGYRA
+                     PDKKNPARAMDVRPDTPVGLKPKDLMGIPWRLAFALQDDGWYLRSDIVWNKPNAMPES
+                     VKDRPARSHEFLFMFTKSEKYFYDWQAAREPADGGGLRNRRSVWNVNTKPFAGAHFAT
+                     FPPELIRPCIHASTEPGDYVLDPFFGSGTVGLVCQDENRQYVGIELNPEYVTLAAGRL
+                     QGQNSNVIKIAAA"
+     gene            4350..5351
+                     /locus_tag="PK63_RS01205"
+                     /old_locus_tag="PK63_20975"
+     CDS             4350..5351
+                     /locus_tag="PK63_RS01205"
+                     /old_locus_tag="PK63_20975"
+                     /inference="EXISTENCE: similar to AA
+                     sequence:RefSeq:WP_017161560.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="restriction endonuclease Cfr9I"
+                     /protein_id="WP_039584108.1"
+                     /db_xref="GI:746552461"
+                     /translation="MTAPNKINFPPPKLQIDFAFALKRFRAVYLQSALLETVRDMDIA
+                     ELDRQLSKYVPPADLATLAQYGLRAELLFAVPAVLEANPHLLGYYRLLMGYSQKEFYG
+                     RDKGFGVGCFKSMEEKGKAGKAAVADLHDLCVAFCAAASALLAGVGPLRVSRELLDDL
+                     TLLTVGPQLRGGANNQRGADGIVLVFEIIREIVAHAAAEVRESAIEVNSATGRPVLIE
+                     FAPDPDIIIREEMEHQHYRNVVAIEVKSGTDVSNIHNRIGEAEKSHQKARQRGFTECW
+                     TVVNVGRLDMVKARSESPSTDRFYSLTALSLRAGDEYDDFRRRVLSLTAIPARPANP"
+CONTIG      join(JTCT02000017.1:1..6000)
+//
+

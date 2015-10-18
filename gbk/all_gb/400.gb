@@ -1,0 +1,59 @@
+LOCUS       KP822380                 400 bp    DNA     linear   PLN 16-MAY-2015
+DEFINITION  UNVERIFIED: Protoparmelia sp. ZA voucher Crespo, Divakar,
+            Hawksworth, Amo, Lumbsch MAF-Lich 19625 (MAF) DNA replication
+            licensing factor MCM7-like gene, partial sequence.
+ACCESSION   KP822380
+VERSION     KP822380.1  GI:820833189
+KEYWORDS    UNVERIFIED.
+SOURCE      Protoparmelia sp. ZA
+  ORGANISM  Protoparmelia sp. ZA
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; OSLEUM clade; Lecanoromycetidae; Lecanorales;
+            Lecanorineae; Parmeliaceae; Protoparmelia.
+REFERENCE   1  (bases 1 to 400)
+  AUTHORS   Singh,G., Dal Grande,F., Divakar,P.K., Otte,J., Leavitt,S.D.,
+            Szczepanska,K., Crespo,A., Rico,V.J., Aptroot,A., Caceres,M.E.,
+            Lumbsch,H.T. and Schmitt,I.
+  TITLE     Coalescent-based species delimitation approach uncovers high
+            cryptic diversity in the cosmopolitan lichen-forming fungal genus
+            Protoparmelia (Lecanorales, Ascomycota)
+  JOURNAL   PLoS ONE 10 (5), E0124625 (2015)
+   PUBMED   25932996
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 400)
+  AUTHORS   Singh,G., Dal Grande,F., Divakar,P.K., Otte,J., Leavitt,S.D.,
+            Szczepanska,K., Crespo,A., Rico,V.J., Aptroot,A., Caceres,M.E.S.,
+            Lumbsch,H.T. and Schmitt,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-FEB-2015) Senckenberg Gesellschaft fur
+            Naturforschung; Biodiversity and Climate Research Centre, Goethe
+            University Frankfurt, Senckenberganlage 25, Frankfurt am Main,
+            Hessen 60325, Germany
+COMMENT     GenBank staff is unable to verify sequence and/or annotation
+            provided by the submitter.
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..400
+                     /organism="Protoparmelia sp. ZA"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Crespo, Divakar, Hawksworth, Amo,
+                     Lumbsch MAF-Lich 19625 (MAF)"
+                     /db_xref="taxon:1650690"
+                     /country="South Africa: Cape Region"
+                     /altitude="290 m."
+                     /collection_date="01-Jun-2005"
+     misc_feature    <1..>400
+                     /note="similar to DNA replication licensing factor MCM7"
+ORIGIN      
+        1 tgccattcca agaagtcaag atacaggaaa tggctgatca agttcctgtt ggccatatcc
+       61 caagaacact cactatacac tgccatggta ctctgactag gcagatcaac cctggcgacg
+      121 tgattgatgt tgcgggcatt ttccttccca ctccttatac aggcttcaag gccatccgcg
+      181 ctgggcttct gacagacacc tatctcgagg cacagcacgt caatcagcat aagaaagcct
+      241 atgatgactt ggttttcgat gccagaactt tccgaagaat tgaaaagtac aagcactctg
+      301 gtcatatgta cgastatctt gccaratcca ttgctcctga aawctatggt catctggatg
+      361 tcaaaaaggc cctccttctc ctcctgattg gtggcgtaac
+//
+

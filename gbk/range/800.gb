@@ -1,0 +1,61 @@
+LOCUS       KP796316                 800 bp    DNA     linear   PLN 16-MAY-2015
+DEFINITION  Protoparmelia aff. badia C GS-2015 voucher Crespo, Rico, Ruibal
+            MAF-Lich 19447 28S ribosomal RNA gene, partial sequence.
+ACCESSION   KP796316
+VERSION     KP796316.1  GI:820722887
+KEYWORDS    .
+SOURCE      Protoparmelia aff. badia C GS-2015
+  ORGANISM  Protoparmelia aff. badia C GS-2015
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Lecanoromycetes; OSLEUM clade; Lecanoromycetidae; Lecanorales;
+            Lecanorineae; Parmeliaceae; Protoparmelia.
+REFERENCE   1  (bases 1 to 800)
+  AUTHORS   Singh,G., Dal Grande,F., Divakar,P.K., Otte,J., Leavitt,S.D.,
+            Szczepanska,K., Crespo,A., Rico,V.J., Aptroot,A., Caceres,M.E.,
+            Lumbsch,H.T. and Schmitt,I.
+  TITLE     Coalescent-based species delimitation approach uncovers high
+            cryptic diversity in the cosmopolitan lichen-forming fungal genus
+            Protoparmelia (Lecanorales, Ascomycota)
+  JOURNAL   PLoS ONE 10 (5), E0124625 (2015)
+   PUBMED   25932996
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 800)
+  AUTHORS   Singh,G., Dal Grande,F., Divakar,P.K., Otte,J., Leavitt,S.D.,
+            Szczepanska,K., Crespo,A., Rico,V.J., Aptroot,A., Caceres,M.E.S.,
+            Lumbsch,H.T. and Schmitt,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-FEB-2015) Senckenberg Gesellschaft fur
+            Naturforschung, Biodiversity and Climate Research Centre, Goethe
+            University Frankfurt, Senckenberganlage 25, Frankfurt am Main,
+            Hessen 60325, Germany
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..800
+                     /organism="Protoparmelia aff. badia C GS-2015"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Crespo, Rico, Ruibal MAF-Lich 19447"
+                     /db_xref="taxon:1650694"
+                     /country="Spain: Madrid"
+                     /altitude="989 m."
+                     /collection_date="16-Jul-2014"
+     rRNA            <1..>800
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 gttgtttggg aatgcagctc aaaatgggtg gtaaatttca tctaaagcta aatactggct
+       61 ggagaccgat agcgcacaag tagagtgatc gaaagatgaa aagcactttg gaaagagagt
+      121 caaacagtac gtgaaattgt tgaaagggaa gcgcttgcaa ccagacctgt ccgtaggtga
+      181 tcagccgccg ttctcggtgg tgcactcgcc tacgatcagg ccagcatcgg ttcgggcggt
+      241 cggataaagg ccttgggaat gtagctcctc tcgaggagtc ttatagccct cggtgcaatg
+      301 cggccaaccc ggaccgagga ccgcgcttcg gctaggatgc tggcgtaatg gttgtaagcg
+      361 acccgtcttg aaacacggac caaggagtct aacatctatg cgagtgtttg ggtgtcaaac
+      421 ccatacgcgg aatgaaagtg aacggaggtg agaacccttt agggcgcatc atcgaccgat
+      481 ccagatgtct tcggatggat ttgagtatga gcatagctgt tgggacccga aagatggtga
+      541 actatgcctg aatagggtga agccagagga aactctggtg gaggctcgca gcggttctga
+      601 cgtgcaaatc gatcgtcaaa tttgggtata ggggcgaaag actaatcgaa ccatctagta
+      661 gctggttcct gccgaagttt ccctcaggat agcagtaacg ttttcagttt tatgaggtaa
+      721 agcgaatgat tagaggcctt ggggttgaaa caaccttaac ctattctcaa actttaaata
+      781 tgtaagaagt ccttgttact
+//
+

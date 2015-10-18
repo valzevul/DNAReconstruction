@@ -1,0 +1,67 @@
+LOCUS       XM_012547567             400 bp    mRNA    linear   MAM 15-MAY-2015
+DEFINITION  PREDICTED: Sarcophilus harrisii cAMP-specific 3',5'-cyclic
+            phosphodiesterase 4B-like (LOC100915942), mRNA.
+ACCESSION   XM_012547567
+VERSION     XM_012547567.1  GI:821479575
+DBLINK      BioProject: PRJNA167725
+KEYWORDS    RefSeq.
+SOURCE      Sarcophilus harrisii (Tasmanian devil)
+  ORGANISM  Sarcophilus harrisii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Metatheria; Dasyuromorphia; Dasyuridae; Sarcophilus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_003838746.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Sarcophilus harrisii Annotation
+                                           Release 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..400
+                     /organism="Sarcophilus harrisii"
+                     /mol_type="mRNA"
+                     /isolate="Salem"
+                     /db_xref="taxon:9305"
+                     /chromosome="4"
+                     /map="unlocalized"
+                     /sex="female"
+                     /country="Australia: Taronga Zoo, Sydney"
+     gene            1..400
+                     /gene="LOC100915942"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 100% coverage of the annotated
+                     genomic feature by RNAseq alignments, including 1 sample
+                     with support for all annotated introns"
+                     /db_xref="GeneID:100915942"
+     CDS             60..365
+                     /gene="LOC100915942"
+                     /codon_start=1
+                     /product="cAMP-specific 3',5'-cyclic phosphodiesterase
+                     4B-like"
+                     /protein_id="XP_012403021.1"
+                     /db_xref="GI:821479576"
+                     /db_xref="GeneID:100915942"
+                     /translation="MKKSRSVMTVTADENVKDYLECGLSKSYSSSSNTLGIDLWRGRR
+                     CCSGNLQLPPLSQRQSERARTPDGDSISRPTTLPLLTLPSIAITTVSQERPAFTSVQ"
+ORIGIN      
+        1 cccccaagag ctggactgaa gaacaagcat cgcaagaagg gcctcccttt ccagtgataa
+       61 tgaagaaaag ccggagtgtt atgacagtga ccgctgatga gaatgttaag gattacttgg
+      121 agtgcggcct gagtaaatct tacagctcct ccagtaacac cctagggatc gacctctgga
+      181 gagggagaag atgctgctct gggaatctcc agttgccccc gctgtcccag agacagtcgg
+      241 aaagagcccg aacgcctgat ggagatagca tttcaagacc caccactctt cctttgctga
+      301 cacttccaag catcgccatc actaccgtaa gccaagagag gcctgctttc acatcagtac
+      361 aatgaggaga agatgggttc aataacctct gaagttacct
+//
+

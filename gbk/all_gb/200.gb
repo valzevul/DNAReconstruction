@@ -1,0 +1,52 @@
+LOCUS       KM384332                 200 bp    DNA     linear   PLN 16-MAY-2015
+DEFINITION  Metschnikowia pulcherrima strain yHKS191 internal transcribed
+            spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   KM384332
+VERSION     KM384332.1  GI:820806973
+KEYWORDS    .
+SOURCE      Metschnikowia pulcherrima
+  ORGANISM  Metschnikowia pulcherrima
+            Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+            Saccharomycetes; Saccharomycetales; Metschnikowiaceae;
+            Metschnikowia.
+REFERENCE   1  (bases 1 to 200)
+  AUTHORS   Sylvester,K., Wang,Q.M., James,B., Mendez,R., Hulfachor,A.B. and
+            Hittinger,C.T.
+  TITLE     Temperature and host preferences drive the diversification of
+            Saccharomyces and other yeasts: a survey and the discovery of eight
+            new yeast species
+  JOURNAL   FEMS Yeast Res. 15 (3) (2015) In press
+   PUBMED   25743785
+REFERENCE   2  (bases 1 to 200)
+  AUTHORS   Sylvester,K., Wang,Q.-M., James,B., Mendez,R., Hulfachor,A.B. and
+            Hittinger,C.T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-AUG-2014) Genetics, University of Wisconsin-Madison,
+            425-G Henry Mall, 434 Genetics/Biotechnology Center, Madison, WI
+            53706, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..200
+                     /organism="Metschnikowia pulcherrima"
+                     /mol_type="genomic DNA"
+                     /strain="yHKS191"
+                     /isolation_source="soil"
+                     /host="Acer"
+                     /db_xref="taxon:27326"
+                     /collection_date="Mar-2012"
+                     /PCR_primers="fwd_name: ITS1, fwd_seq:
+                     tccgtaggtgaacctgcgg, rev_name: ITS4, rev_seq:
+                     tcctccgcttattgatatgc"
+     misc_RNA        <1..>200
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, and internal transcribed spacer 2"
+ORIGIN      
+        1 ttcaataact caattaaaaa actttcaaca acggatctct tggttctcgc atcgatgaag
+       61 aacgcagcga attgcgatac gtaatatgac ttgcagacgt gaatcattga atctttgaac
+      121 gcacattgcg ccccggggta ttccccaggg catgcgtggg tgagcgatat ttactctcaa
+      181 acctccggtt tggtcctgct
+//
+

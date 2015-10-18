@@ -1,0 +1,76 @@
+LOCUS       XM_012547429             800 bp    mRNA    linear   MAM 15-MAY-2015
+DEFINITION  PREDICTED: Sarcophilus harrisii DnaJ (Hsp40) homolog, subfamily C,
+            member 5 gamma (DNAJC5G), transcript variant X4, mRNA.
+ACCESSION   XM_012547429
+VERSION     XM_012547429.1  GI:821479250
+DBLINK      BioProject: PRJNA167725
+KEYWORDS    RefSeq.
+SOURCE      Sarcophilus harrisii (Tasmanian devil)
+  ORGANISM  Sarcophilus harrisii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Metatheria; Dasyuromorphia; Dasyuridae; Sarcophilus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_003838729.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Sarcophilus harrisii Annotation
+                                           Release 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..800
+                     /organism="Sarcophilus harrisii"
+                     /mol_type="mRNA"
+                     /isolate="Salem"
+                     /db_xref="taxon:9305"
+                     /chromosome="4"
+                     /map="unlocalized"
+                     /sex="female"
+                     /country="Australia: Taronga Zoo, Sydney"
+     gene            1..800
+                     /gene="DNAJC5G"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 3 Proteins, and 100% coverage of
+                     the annotated genomic feature by RNAseq alignments,
+                     including 3 samples with support for all annotated
+                     introns"
+                     /db_xref="GeneID:100930615"
+     CDS             173..691
+                     /gene="DNAJC5G"
+                     /codon_start=1
+                     /product="dnaJ homolog subfamily C member 5G isoform X2"
+                     /protein_id="XP_012402883.1"
+                     /db_xref="GI:821479251"
+                     /db_xref="GeneID:100930615"
+                     /translation="MRMAQAHRKKYRLSKSGETLYEVLELPRGAKPEEIKKAYRKLAL
+                     KYHPDKNPEDPKAEERFKEINAAHSILADPDQRQIYNMYGAMGLYMANQYGAETVKIC
+                     FIVTKWWFKCLVLLCTLLSCCCCCCFCCGKNAPPEYERFKSTSDLQTQPPDTKMQTQS
+                     PRTGETKGKWPR"
+ORIGIN      
+        1 tgccgggacg gggcgggggt tggcggagct ggggttggct gcgcagacgc agacgcagac
+       61 gcagacgcgg agttgctggc ggaggagcct gatcctgctg acgactattg gaacctctgc
+      121 cacagaacca gaacccagtg ttctgcctcg gagcctgctg cagaccccat ccatgagaat
+      181 ggcacaagca catcggaaaa agtatcggct gtccaaaagt ggagaaaccc tctatgaagt
+      241 gctggaactg cctcggggag caaaacctga agagatcaag aaagcctaca ggaaattggc
+      301 actgaagtac cacccagaca agaatccaga agatcctaaa gcggaagagc ggttcaaaga
+      361 gatcaatgca gcccattcga tacttgctga tcctgatcag cgccagatct acaatatgta
+      421 cggtgccatg ggcctatata tggctaacca atatggtgca gaaactgtca aaatctgttt
+      481 cattgtgacc aagtggtggt tcaagtgcct ggtcctcttg tgtacacttc tttcttgttg
+      541 ttgctgctgc tgcttttgct gtgggaagaa tgcaccacca gagtacgagc gttttaaatc
+      601 taccagtgat ctgcagacac aacctccaga cacaaaaatg cagacacaat ctccaaggac
+      661 aggtgagacc aaaggaaaat ggccaagatg aaactgaaga tgctttcttc agtctgaaca
+      721 tagaagagga tgaaaatgaa aagacacaaa atgcagaaac tggacgaaaa tagtatttaa
+      781 ggagaagaga agaaaagggg
+//
+

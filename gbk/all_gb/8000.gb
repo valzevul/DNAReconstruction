@@ -1,0 +1,59 @@
+LOCUS       NW_012190337            8000 bp    DNA     linear   CON 04-MAY-2015
+DEFINITION  Aotus nancymaae isolate 85725 unplaced genomic scaffold, Anan_1.0
+            Scaffold8821, whole genome shotgun sequence.
+ACCESSION   NW_012190337 GPS_009101907
+VERSION     NW_012190337.1  GI:816253602
+DBLINK      BioProject: PRJNA282745
+            BioSample: SAMN03121886
+            Assembly: GCF_000952055.1
+KEYWORDS    WGS; RefSeq.
+SOURCE      Aotus nancymaae (Ma's night monkey)
+  ORGANISM  Aotus nancymaae
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Aotidae; Aotus.
+COMMENT     REFSEQ INFORMATION: The reference sequence is identical to
+            KQ000183.1.
+            Assembly name: Anan_1.0
+            The genomic sequence for this RefSeq record is from the
+            whole-genome assembly released by the Baylor College of Medicine on
+            2015/03/16. The original whole-genome shotgun project has the
+            accession JYKP00000000.1.
+            
+            ##Genome-Assembly-Data-START##
+            Assembly Provider     :: Baylor College of Medicine
+            Assembly Date         :: JAN-2015
+            Assembly Method       :: AllPathsLG v. 48744; Atlas Link v. 1.1;
+                                     Atlas GapFill v. 2.2
+            Assembly Name         :: Anan_1.0
+            Genome Coverage       :: 113.4x
+            Sequencing Technology :: Illumina
+            ##Genome-Assembly-Data-END##
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Aotus nancymaae Annotation Release
+                                           100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..8000
+                     /organism="Aotus nancymaae"
+                     /mol_type="genomic DNA"
+                     /isolate="85725"
+                     /db_xref="taxon:37293"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="blood"
+     assembly_gap    2488..7646
+                     /estimated_length=5159
+                     /gap_type="within scaffold"
+                     /linkage_evidence="paired-ends"
+CONTIG      join(JYKP01232659.1:1..2487,gap(5159),JYKP01232660.1:1..354)
+//
+
